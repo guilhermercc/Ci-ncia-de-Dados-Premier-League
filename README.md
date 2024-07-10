@@ -1,3 +1,7 @@
+Vídeo de apresentação do projeto: https://www.loom.com/share/426c81010d8f40feba6478ea9962c20b?sid=50733878-e551-4286-bcf9-882ef3119715
+(O vídeo ficou muito grande para que pudéssemos passar por tudo que foi feito, recomendamos colocar em 1.5x ou 2x)
+
+
 # Ciência de Dados Premier League 23/24
 
 Para a primeira entrega do projeto da disciplina de Gerenciamento de Dados e Informação, realizamos uma análise dos dados de todos os jogadores que atuaram na úlitma Premier League (primeira divisão do futebol inglês).
